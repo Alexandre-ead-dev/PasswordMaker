@@ -28,8 +28,7 @@ To use this code, follow these steps:
 
 7. You can copy the generated password by selecting it and using the copy command (e.g., right-click and select "Copy" or use the Ctrl+C shortcut).
 
-Note: The project includes an image file named `background.jpeg`. Make sure to keep this image file in the same directory as the HTML, CSS, and JavaScript files.
+Note: The project includes an image file named `bg.jpg`. Make sure to keep this image file in the same directory as the HTML, CSS, and JavaScript files.
 
 Feel free to modify the code and customize it according to your needs.
 
-![Password Maker](bg.jpg)

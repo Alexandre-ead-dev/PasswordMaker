@@ -32,4 +32,4 @@ Note: The project includes an image file named `background.jpeg`. Make sure to k
 
 Feel free to modify the code and customize it according to your needs.
 
-![Password Maker](background.jpeg)
+![Password Maker](bg.jpg)

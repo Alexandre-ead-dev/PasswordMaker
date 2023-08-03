@@ -10,7 +10,8 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background: url(/bg.jpg) center/cover;
+  background: url(https://images.pexels.com/photos/19670/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+    center/cover;
 }
 .app {
   background-image: linear-gradient(to right, rgb(62, 211, 211) 0%, teal 100%);

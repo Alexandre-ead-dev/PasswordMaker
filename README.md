@@ -32,3 +32,6 @@ Note: The project includes an image file named `bg.jpg`. Make sure to keep this 
 
 Feel free to modify the code and customize it according to your needs.
 
+## Link
+https://alexandre-ead-dev.github.io/PasswordMaker/
+
